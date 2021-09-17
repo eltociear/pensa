@@ -53,6 +53,7 @@
 - [ ] Put shared functionality of PCA and TICA into shared functions.
 - [ ] Make file format (png/pdf?) for matplotlib optional.
 - [ ] Implement [Linear Discriminant Analysis](https://en.wikipedia.org/wiki/Linear_discriminant_analysis)
+- [ ] Implement [Non-Negative Matrix Factorization](https://onlinelibrary.wiley.com/doi/10.1002/env.3170050203).
 
 ### Ideas
 - [ ] Logo
@@ -71,6 +72,7 @@
   - [ ] lipids
   - [ ] nucleic acids
 - [ ] Simplify adding hand-crafted features 
+- [ ] Account for [Bonferroni correction](https://en.wikipedia.org/wiki/Bonferroni_correction) in comparison.
 - [ ] Implement conformational entropy calculations
   - [ ] Read papers, e.g, [1](https://www.pnas.org/content/111/43/15396), [2](https://www.mdpi.com/2079-3197/6/1/21/htm), [3](https://pubs.acs.org/doi/10.1021/acs.jcim.0c01375)
   - [ ] Test implementations, e.g., [Xentropy](https://github.com/liedllab/X-Entropy) to find the best way to do it.
